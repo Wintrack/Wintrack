@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wintrack
 - 👀 I’m interested in C++, C, Web Dev and coding in general
-- 🌱 I’m currently learning advanced C++ by the making of a UDP/TCP multiplayer video game !
+- 🌱 I’m currently learning frontend development in order to become a full-stack developer
 - 💞️ I’m looking to collaborate on projects that can make me grow !
 
 <!---
